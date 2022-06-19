@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>
+    <div className="App">
       <h1>React Redux Toolkit Blog</h1>
     </div>
   );
