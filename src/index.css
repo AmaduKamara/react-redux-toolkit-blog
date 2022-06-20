@@ -24,6 +24,11 @@ select {
   margin-bottom: 1em;
 }
 
+button {
+  padding: 10px 0;
+  cursor: pointer;
+}
+
 main {
   max-width: 500px;
   margin: auto;
